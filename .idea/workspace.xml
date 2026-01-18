@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcbd1755-74be-4f43-a3de-b62f70e2f06e" name="Changes" comment="完成文章功能">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/anno/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/controller/FileUploadController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/pojo/PageBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/utils/AliOssUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/validation/StateValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/itheima/mapper/ArticleMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/controller/ArticleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/controller/ArticleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/mapper/ArticleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/mapper/ArticleMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/pojo/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/pojo/Article.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/service/ArticleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/service/ArticleService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/service/Impl/ArticleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/service/Impl/ArticleServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="fcbd1755-74be-4f43-a3de-b62f70e2f06e" name="Changes" comment="完成功能" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +72,7 @@
     "Spring Boot.BigEventApplication.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/CODE/java_workspace/big-event/src/main/resources/com/itheima/mapper",
+    "last_opened_file_path": "D:/CODE/java_workspace/big-event/src/main/java/com/itheima/utils",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -107,9 +92,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CODE\java_workspace\big-event\src\main\java\com\itheima\utils" />
       <recent name="D:\CODE\java_workspace\big-event\src\main\resources\com\itheima\mapper" />
       <recent name="D:\CODE\java_workspace\big-event\src\main\java\com\itheima\pojo" />
-      <recent name="D:\CODE\java_workspace\big-event\src\main\java\com\itheima\utils" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.BigEventApplication">
@@ -189,7 +174,7 @@
       <workItem from="1768471911183" duration="34246000" />
       <workItem from="1768661629649" duration="761000" />
       <workItem from="1768662414230" duration="14000" />
-      <workItem from="1768662464218" duration="15887000" />
+      <workItem from="1768662464218" duration="18479000" />
     </task>
     <task id="LOCAL-00001" summary="完成文章功能">
       <option name="closed" value="true" />
@@ -199,7 +184,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768571244159</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="完成功能">
+      <option name="closed" value="true" />
+      <created>1768733704595</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768733704596</updated>
+    </task>
+    <task id="LOCAL-00003" summary="完成功能">
+      <option name="closed" value="true" />
+      <created>1768740407967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768740407967</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +231,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完成文章功能" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成文章功能" />
+    <MESSAGE value="完成功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成功能" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
